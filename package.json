@@ -15,5 +15,8 @@
     "url": "https://github.com/dhananjayaaps/docker-session/issues"
   },
   "homepage": "https://github.com/dhananjayaaps/docker-session#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
